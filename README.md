@@ -1,4 +1,4 @@
-# BupaAcibademFinal
+# Sağlık Sigortası Kayıt Ekranı
 
 2 Ayrı Solution içermektedir. 
 
