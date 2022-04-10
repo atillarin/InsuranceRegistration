@@ -17,5 +17,5 @@ ORM araçları kullanılmadı.
 
 Ekran görüntüleri aşağıdaki gibidir. 
 
-![alt text](https://github.com/atillarin/InsuranceRegistration/blob/main/Animation.gif?raw=true)
-![alt text](https://github.com/atillarin/InsuranceRegistration/blob/main/diagram.jfif?raw=true)
+![alt text](https://github.com/atillarin/InsuranceRegistration/blob/master/Animation.gif?raw=true)
+![alt text](https://github.com/atillarin/InsuranceRegistration/blob/master/diagram.jfif?raw=true)
