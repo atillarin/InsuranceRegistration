@@ -1,7 +1,5 @@
 # Sağlık Sigortası Kayıt Ekranı
 
-2 Ayrı Solution içermektedir. 
-
 Kayıt uygulamasının önyüzü Bootstrap ve Webform ile 5 ayrı sayfada hazırlanmıştır.  
 Sigorta Ettiren Girişi->  Sigortalı Aday Girişi -> Ürün Seçimi -> Prim Görüntüleme -> Ödeme Ekranı  
 5 proje katmanı ; Dal,Bl,Dto,WebApi .net 5.0 - Webform  .net Framework 4.7.2  
